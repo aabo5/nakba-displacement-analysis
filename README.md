@@ -127,13 +127,7 @@ The script will print all statistical results to the console and save the visual
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👤 Author
 
 **Abdelfatah M.A Alhoot**  
-Student ID: 2321051372
+
