@@ -1,14 +1,3 @@
-"""
-Statistical Analysis of Palestinian Displacement Data (1947–2024)
-
-This script performs descriptive statistics, confidence interval estimation,
-sample size calculation, hypothesis testing, and data visualization on
-historical displacement data from the Nakba and subsequent events.
-
-Author: Abdelfatah M.A Alhoot
-Course: Statistics Project (2321051372)
-"""
-
 from pathlib import Path
 
 import pandas as pd
